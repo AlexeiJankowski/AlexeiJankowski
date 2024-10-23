@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AlexeiJankowski
-- 🌱 I’m currently learning JS, React, C#, ASP.NET, Angular
-- 📫 How to reach me https://www.facebook.com/alex.jankowski.7902/
+- 👋 Hi, I’m Oleksii Yankovskyi
+- 🌱 I’m currently learning how to live this life
+- 📫 How to reach me https://www.linkedin.com/in/oleksii-yankovskyi-40529b213/
